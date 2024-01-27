@@ -1,4 +1,4 @@
 # anishfirst
-This is my first repository and this means allot to me.
+This is my first repository.
 <br>
 Author- Anish
